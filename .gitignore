@@ -1,0 +1,8 @@
+.svn
+*.iml
+build.xml
+target/*
+target
+/.settings
+/.classpath
+/.project
